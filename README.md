@@ -17,3 +17,4 @@ To program, you need:
 - MQTT BOX
 
 # :movie_camera: Video:
+- https://youtu.be/peD8l7hLvX8
